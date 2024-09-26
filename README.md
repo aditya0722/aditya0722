@@ -38,7 +38,7 @@ An advanced finance tracker application that:
 ## 📫 How to Reach Me
 
 - Email: [sharmaaaditya167@gmail.com](mailto:your-sharmaaaditya167@gmail.com)
-- LinkedIn: [Linkdin](https://www.linkedin.com/in/aditya-sharma167)
+- LinkedIn: [https://www.linkedin.com/in/aditya-sharma167](https://www.linkedin.com/in/aditya-sharma167)
 
 
 ---
