@@ -37,9 +37,9 @@ An advanced finance tracker application that:
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- GitHub: [Your GitHub Profile](https://github.com/your-github-profile)
+- Email: [sharmaaaditya167@gmail.com](mailto:your-sharmaaaditya167@gmail.com)
+- LinkedIn: [Linkdin](https://www.linkedin.com/in/aditya-sharma167)
+
 
 ---
 
